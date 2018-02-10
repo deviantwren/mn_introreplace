@@ -1,0 +1,11 @@
+{
+	"name" : "mn_introreplace",
+	"version" : "",
+	"path" : ".",
+	"dependencies" : [ "" ],
+	"metadata" : {
+		"author" : "Mntle",
+		"description" : "Replaces the chucklefish fish and giggle sound file with an alternative intro.",
+		"version" : "1.3.3"
+	}
+}
